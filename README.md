@@ -7,9 +7,9 @@
 
 ## Skills
 - Java
-- OOP
+- OOP'S Concepts
 - Git & GitHub
 - Spring Boot (Learning)
 
 ## Projects
-- Student Management System(coming Soon)
+- BankManagementSystem(InProgress..........)
